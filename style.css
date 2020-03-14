@@ -10,6 +10,18 @@ h2 {
   color: #00fd00;
   }
 
+table {
+  color: #00fd00;
+  }
+
+th {
+  color: #00fd00;
+  }
+
+td {
+  color: #00fd00;
+  }
+
 p {
   color: #00fd00;
   }
@@ -29,4 +41,9 @@ li {
 a {
   color: #00fd00;
   text-decoration: none
+  }
+
+
+title {
+  color: #00fd00;
   }
