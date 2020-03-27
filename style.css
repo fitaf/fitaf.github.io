@@ -19,7 +19,7 @@ table {
   color: #00fd00;
   margin-left:auto;
   margin-right:auto;
-  background-color: white;
+  bgcolor: white;
   }
 
 th {
@@ -27,10 +27,10 @@ th {
   }
 
 td {
-  color: #00fd00;
+  color: black;
+  bgcolor: white;
   border= 1px solid black;
   text-color: black;
-  text-align: center;
   vertical-align: middle;
   }
 
