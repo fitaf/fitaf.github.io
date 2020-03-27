@@ -17,9 +17,9 @@ h3 {
 
 table {
   color: #00fd00;
-  border: 1px solid white;
   margin-left:auto;
   margin-right:auto;
+  background-color: white;
   }
 
 th {
@@ -28,6 +28,8 @@ th {
 
 td {
   color: #00fd00;
+  border= 1px solid black;
+  text-color: black;
   }
 
 p {
