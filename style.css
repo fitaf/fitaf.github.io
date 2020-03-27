@@ -30,6 +30,8 @@ td {
   color: #00fd00;
   border= 1px solid black;
   text-color: black;
+  text-align: center;
+  vertical-align: middle;
   }
 
 p {
