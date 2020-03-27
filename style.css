@@ -16,23 +16,20 @@ h3 {
   }
 
 table {
-  color: #00fd00;
-  margin-left:auto;
-  margin-right:auto;
-  bgcolor: white;
-  }
+  background-color: #FFFFE0;
+  border-collapse: collapse;
+  color: black;
+}
 
 th {
-  color: #00fd00;
-  }
+  width: 50%;
+  font: bold 18px/1.1em Arial, Helvetica, Sans-Serif;
+  letter-spacing: 0.3em;
+  background-color: #BDB76B;
+  color: white;
+}
 
-td {
-  color: black;
-  bgcolor: white;
-  border= 1px solid black;
-  text-color: black;
-  vertical-align: middle;
-  }
+td { line-height:2.5em; }
 
 p {
   color: #00fd00;
