@@ -1,6 +1,7 @@
 body {
   background-color: black;
   font-family: Arial, Helvetica, sans-serif;
+  color: #00fd00;
   }
 
 table {
@@ -20,10 +21,6 @@ th {
 td {
   line-height: 2.5em;
 }
-
-.matrix {
-  color: #00fd00;
-  }
 
 a {
   text-decoration: none
